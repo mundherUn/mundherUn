@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'am web designer
+I'am web designer
 <!--
 **mundherUn/mundherUn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
